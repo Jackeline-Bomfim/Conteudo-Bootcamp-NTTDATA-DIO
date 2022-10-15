@@ -4,9 +4,9 @@ Repositório sobre o desafio de GIT/GitHub proposto pelo Bootcamp da DIO - NTT D
 
 :book: :computer:
 
-### Guia de estudos do bootcamp
+## Guia de estudos do bootcamp
 
-#### 1. Introdução a programação e pensamento computacional
+### 1. Introdução a programação e pensamento computacional
 
 Ministrado por Juliana Mascarenhas [Linkedin](https://www.linkedin.com/in/juliana-mascarenhas-ds/).
 
@@ -54,7 +54,7 @@ Nós últimos três tópicos a Juliana coloca em prática o uso dos temas aborda
 - Algoritmo em [PORTUGOL](https://portugol-webstudio.cubos.io/ide).
 - Considerações finais
 
-#### 2. Introdução ao Git e ao GitHub
+### 2. Introdução ao Git e ao GitHub
 
 ##### Introdução ao Git
 
