@@ -56,6 +56,8 @@ Nós últimos três tópicos a Juliana coloca em prática o uso dos temas aborda
 
 ### 2. Introdução ao Git e ao GitHub
 
+Ministrado por Otávio Reis [Linkedin](https://www.linkedin.com/in/operkles/).
+
 ##### Introdução ao Git
 
 - Entendendo o que é Git e sua importância
@@ -87,13 +89,38 @@ Nós últimos três tópicos a Juliana coloca em prática o uso dos temas aborda
 
 - Como os conflitos acontecem no GitHub e como resolvê-los
 
-  
 
+### 3. Entendendo comunicação Client X Server
 
+Ministrado por Diogo M. Mainardes [Linkedin](https://www.linkedin.com/in/diogomainardes/).
 
+##### História da Web
 
+- Apresentação do Curso e Professor
+- Primeiros Computadores
+- Como surgiu (internet)
+- Grandes nomes
 
+##### O que são Clients
 
+- Cliente no linguajar Web
+- Navegadores
+- Aplicação Web
+- Dispositivos móveis
+
+##### O que são Servers
+
+- Sobre Servidores
+- Hardware e Softwares em Servidores
+- Tipos de Servidores
+- Hospedagem de Sites
+
+##### Linguagem de programação
+
+- O que é
+- Server-Side
+- Client-Side
+- HTML não é Linguagem de Programação
 
 
 
