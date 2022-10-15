@@ -10,7 +10,7 @@ Repositório sobre o desafio de GIT/GitHub proposto pelo Bootcamp da DIO - NTT D
 
 Ministrado por Juliana Mascarenhas [Linkedin](https://www.linkedin.com/in/juliana-mascarenhas-ds/).
 
-#### Pensamento computacional
+##### Pensamento computacional
 
 - Apresentação
 
@@ -27,12 +27,12 @@ Ministrado por Juliana Mascarenhas [Linkedin](https://www.linkedin.com/in/julian
 
 Nós últimos três tópicos a Juliana coloca em prática o uso dos temas abordados nos estudos de casos.
 
-#### Introdução à lógica de programação
+##### Introdução à lógica de programação
 
 - O que é lógica
 - Técnicas de lógica de programação
 
-#### Fundamentos de algoritmos
+##### Fundamentos de algoritmos
 
 - Tipologia e variáveis
 - introduções primitivas
@@ -41,7 +41,7 @@ Nós últimos três tópicos a Juliana coloca em prática o uso dos temas aborda
 - O que são funções?
 - Instruções de entrada/Saída
 
-#### Linguagem de programação
+##### Linguagem de programação
 
 - Introdução à linguagem de programação
 - Como um computador entende o programa?
@@ -49,10 +49,47 @@ Nós últimos três tópicos a Juliana coloca em prática o uso dos temas aborda
 - Análise de código
 - Paradigmas de programação
 
-#### Primeiro contato com a programação
+##### Primeiro contato com a programação
 
 - Algoritmo em [PORTUGOL](https://portugol-webstudio.cubos.io/ide).
 - Considerações finais
+
+#### 2. Introdução ao Git e ao GitHub
+
+##### Introdução ao Git
+
+- Entendendo o que é Git e sua importância
+
+##### Navegação via command line interface e instalação
+
+- Comandos básicos para um bom desempenho no terminal
+- Realizando a instalação do Git
+
+##### Entendendo como o Git funciona por baixo dos panos
+
+- Tópicos fundamentais para entender o funcionamento do Git
+- Objetivos internos do Git
+- Chave SSH e Token
+
+##### Primeiros comandos com Git
+
+- Iniciando o Git e criando um commit
+
+##### Ciclo de vida dos arquivos no Git
+
+- Passo a passo no ciclo de vida
+
+##### Introdução ao GitHub
+
+- Trabalhando com o GitHub
+
+##### Resolvendo conflitos
+
+- Como os conflitos acontecem no GitHub e como resolvê-los
+
+  
+
+
 
 
 
