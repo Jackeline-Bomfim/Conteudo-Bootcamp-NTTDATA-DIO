@@ -122,7 +122,25 @@ Ministrado por Diogo M. Mainardes [Linkedin](https://www.linkedin.com/in/diogoma
 - Client-Side
 - HTML não é Linguagem de Programação
 
+##### Introdução ao HTML na prática
 
+- Apresentando o curso
 
+- Ferramentas Utilizadas
 
+  [Download do VS Code](https://code.visualstudio.com/download)
+
+- Inspetor de Elementos
+
+- Estrutura básica do HTML
+
+- Falando sobre Tags
+
+- Atributos das Tags
+
+- Textos
+
+- Listas ordenadas e não ordenadas
+
+- links
 
