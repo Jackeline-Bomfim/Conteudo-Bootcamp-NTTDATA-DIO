@@ -122,7 +122,7 @@ Ministrado por Diogo M. Mainardes [Linkedin](https://www.linkedin.com/in/diogoma
 - Client-Side
 - HTML não é Linguagem de Programação
 
-##### Introdução ao HTML na prática
+### 4. Introdução ao HTML na prática
 
 - Apresentando o curso
 
