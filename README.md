@@ -145,3 +145,25 @@ Ministrado por Diogo M. Mainardes [Linkedin](https://www.linkedin.com/in/diogoma
 - links
 
 - Criar um página Web Utilizando as Tags Aprendidas
+
+##### Trabalhando com formulários
+
+- Tags Form
+- Tags Input e Seus tipos
+- Checkbox e Radio
+- Button e seus tipos
+- Select e seus tipos
+- Textare
+
+##### Estruturando seu HTML + formatações
+
+- Formatando textos - parte 1
+- Formatando textos - parte 2
+- Div e Span
+- Fieldsets
+- Embeds
+- Iframes
+- Resenha sobre cores
+
+
+
