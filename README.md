@@ -90,7 +90,7 @@ Ministrado por Otávio Reis [Linkedin](https://www.linkedin.com/in/operkles/).
 - Como os conflitos acontecem no GitHub e como resolvê-los
 
 
-### 3. Entendendo comunicação Client X Server
+### 3. Entendendo comunicação Client X Server e HTML na prática
 
 Ministrado por Diogo M. Mainardes [Linkedin](https://www.linkedin.com/in/diogomainardes/).
 
@@ -164,6 +164,24 @@ Ministrado por Diogo M. Mainardes [Linkedin](https://www.linkedin.com/in/diogoma
 - Embeds
 - Iframes
 - Resenha sobre cores
+
+##### Trabalhando com mídias
+
+- O que são Tags de mídias
+- Tag img
+- Tag audio
+- Tag vídeo
+- Tag track
+- Tag iframe
+
+##### Criando tabelas
+
+- Sobre tabelas
+- Tag table
+- Tag tr
+- Tag td e th
+- Tag tbody, thead e tfoot
+- Estilizando tabelas
 
 
 
