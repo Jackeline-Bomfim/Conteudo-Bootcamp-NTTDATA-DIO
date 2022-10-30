@@ -183,5 +183,36 @@ Ministrado por Diogo M. Mainardes [Linkedin](https://www.linkedin.com/in/diogoma
 - Tag tbody, thead e tfoot
 - Estilizando tabelas
 
+### 5. Fundamentos do CSS
 
+Ministrado por Michele Ambrosio [Linkedin](https://www.linkedin.com/in/michelequeirozambrosio/)
 
+##### Introdução ao CSS
+
+- O que é CSS
+- O que pode ser criado com CSS
+- Formas de declaração do CSS
+- Depurando o CSS
+
+##### Seletores
+
+- Seletor de Tags
+- Seletores de ID
+- Seletores de Classes
+- Seletores universais
+- Seletores de Atributo
+
+##### Combinadores
+
+- Agrupamento de seletores
+- Combinador descendente
+- Combinador filho
+- Combinador irmão
+
+##### Propriedades de dimensionamento e espaçamento
+
+- Largura e Altura
+- Altura e largura máxima e mínima
+- Margin
+- Padding
+- Box Sizing
