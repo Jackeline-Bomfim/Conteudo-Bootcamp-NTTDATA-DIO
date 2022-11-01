@@ -216,3 +216,81 @@ Ministrado por Michele Ambrosio [Linkedin](https://www.linkedin.com/in/michelequ
 - Margin
 - Padding
 - Box Sizing
+
+### 6. Estilizações básicas com CSS
+
+##### cores
+
+- Cores pré-definidas
+- RGB e RGBA
+- Hexadecimal
+- HSL e HSLA
+
+##### Imagens
+
+- Propriedade Object-fit
+- Propriedade Object-Position
+
+##### Fundo dos Elementos
+
+- Alterando o Fundo dos Elementos
+- Redimensionando as imagens de fundo dos elementos
+- Repetição das imagens de fundo
+- Propriedade Background Attachment
+- Propriedade Background Origin
+- Propriedade Background Clip
+- Mesclagem
+- Propriedade Background
+
+##### Bordas
+
+- Tamanho da borda
+- Estilo da borda
+- Cor da borda
+- Propriedade Border
+- Arredondando os cantos com a propriedade border-radius
+- Propriedade border image source
+- Propriedade border imagem slice
+- Propriedade border image width
+- Propriedade border image repeat
+- Propriedade border image Outset p1
+- Propriedade border image Outset p2
+
+##### Fontes
+
+- Onde encontrar fontes personalizadas?
+- Personalizando as fontes do nosso site
+- Aplicando fontes personalizadas com @import url()
+- Alterando o tamanho das fontes com font-size
+- Estilo de fontes (font-style)
+- Variação das fontes com font-variant
+- Propriedade font-stretch
+- Customizando a altura da linha com line-height
+- Propriedade Resumida Font
+
+##### Textos
+
+- Propriedade Text-transform
+- Propriedade text-align
+- Propriedade text-decoration
+- Propriedade text-ident
+- Propriedades letter-spacing e word-spacing
+- Propriedade white-space
+- Propriedade word-wrap
+- Propriedade word-break
+- Propriedade writing-mode
+- Propriedade text-overflow
+
+##### Sombras
+
+- Efeito de sombra nos elementos
+- efeito de sombra nos textos
+
+##### Outros
+
+- Aplicando transparência aos elementos
+- Propriedade Overflow
+- Redefinindo as propriedades padrões dos navegadores
+
+
+
