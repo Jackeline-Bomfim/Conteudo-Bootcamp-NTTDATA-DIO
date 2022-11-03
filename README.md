@@ -292,5 +292,21 @@ Ministrado por Michele Ambrosio [Linkedin](https://www.linkedin.com/in/michelequ
 - Propriedade Overflow
 - Redefinindo as propriedades padrões dos navegadores
 
+### 7. Unidades de Medida
 
+##### Unidades de medidas absolutas
+
+- Unidades de medidas no CSS
+- Unidades de medidas absolutas
+- Pixels físicos e lógicos
+
+##### Unidades de medidas Relativas
+
+- O que são unidades de medidas relativas
+- Porcentagem
+- Unidade de medida em
+- Unidade de medida rem
+- Viewports
+- Unidade de medida ex e ch
+- Calculando valores com CSS
 
