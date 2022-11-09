@@ -310,3 +310,58 @@ Ministrado por Michele Ambrosio [Linkedin](https://www.linkedin.com/in/michelequ
 - Unidade de medida ex e ch
 - Calculando valores com CSS
 
+### 8. Primeiras páginas interativas com JavaScript
+
+Ministrado por Renan Johannsen [Linkedin](https://www.linkedin.com/in/renanjpaula/)
+
+##### Primeiros passos com JavaScript
+
+- Variáveis e operadores
+- Estruturas condicionais
+- Praticando com vaiáveis, operadores e estruturas condicionais.
+
+##### Conhecendo funções JavaScript
+
+- O poder das Funções na qualidade do seu código
+- praticando com funções
+
+##### Criando objetos e classes em JavaScript
+
+- Entendendo objetos e classes
+- Praticando com objetos e classes
+
+##### Arrays e estruturas de repetição em JavaScript
+
+- Arrays e estruturas de repetição
+- praticando estruturas de repetição
+
+##### Importação e exportação com JavaScript
+
+- Desvendando as funções "gets" e "print" dos desafios de código
+- Praticando os conceitos de importação e exportação
+
+### 9. Introdução ao desenvolvimento web com JavaScript
+
+##### Introdução
+
+- Configuração do ambiente
+- Protocolo cliente servidor
+- Introdução ao HTML
+- Introdução ao CSS
+- Introdução ao JavaScript voltando para web
+
+##### Configurações gerais do projeto
+
+- Adicionando normalize css no projeto
+- Organizando o projeto
+- Adicionando a font Roboto no projeto
+
+##### Estilização da listagem de pokémon
+
+- Estilização inicial
+- Estilização de listagem de Pokémon
+- Adicionando a imagem do Pokémon
+- Adicionando os tipos dos Pokémon e finalizando o layout da imagem
+- Tornando nosso layout responsivo
+- Separando os estilos
+
